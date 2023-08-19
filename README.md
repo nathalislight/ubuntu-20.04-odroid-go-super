@@ -1,4 +1,5 @@
 # ubuntu-20.04-odroid-go-super
 
-'login: root'
-'password: 0137'
+login: root
+
+password: 0137
